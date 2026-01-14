@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月詠",
+  "base_artist": "tokiwa",
+  "createdAt": "2026-01-14T02:41:01.343220Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月詠",
+      "artist": "tokiwa",
+      "has_synced": false,
+      "path": "select/pl_01_月詠_tokiwa.txt"
+    }
+  ]
+}
